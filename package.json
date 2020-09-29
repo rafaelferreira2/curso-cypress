@@ -1,0 +1,14 @@
+{
+  "name": "cy",
+  "version": "1.0.0",
+  "description": "curso de cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Rafael Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  }
+}
