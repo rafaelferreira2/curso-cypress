@@ -9,6 +9,6 @@
   "author": "Rafael Ferreira",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^5.2.0"
+    "cypress": "^3.4.1"
   }
 }
