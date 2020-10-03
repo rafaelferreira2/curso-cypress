@@ -7,4 +7,5 @@ end-to-end testing:
   stage: e2e
   script:
     - npm install
-    - npm test
+    - npm test 
+    
