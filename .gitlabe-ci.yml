@@ -6,6 +6,6 @@ stages:
 end-to-end testing:
   stage: e2e
   script:
+    - npm install cypress --dev
     - npm install
     - npm test 
-    
